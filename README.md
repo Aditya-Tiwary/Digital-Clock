@@ -12,5 +12,8 @@ To use this digital clock project, simply open the **project.html** file in your
 ## Customization
 This clock can be customized by modifying the CSS code in the **project.css** file. You can change the font, size, and color of the clock display by editing the **#time-display selector**.
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/83766476/236801203-7ab39a7d-2145-4191-aae0-5e91cbbd15cf.png)
+
 ## Credits
 This project was created by **Aditya Tiwary**
